@@ -10,13 +10,6 @@ import java.util.Map;
 
 public class Day1 {
 
-    /**
-     *  Day 1: Part 1
-     *
-     *
-     */
-
-
     private static Map<Integer,Integer> inputData;
     private static List<Integer> inputList;
     private static final String SAMPLE_FILE_LOCATION = "src/com/rpatel1291/resources/sample.txt" ;
